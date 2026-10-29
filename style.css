@@ -1,0 +1,28 @@
+.navbar{
+    height: 85px;
+    position: fixed;
+    width: 100%;
+}
+.title1{
+    color: #000000;
+    font-family: cursive;
+    text-align: center;
+}
+.explore-button{
+    color: black;
+    background-color: blue;
+    padding-left: 12px;
+    border-radius: 12px;
+    transition: 2s;
+    margin-left: 540px;
+}
+.explore-button:hover{
+    background-color: white;
+}
+.details{
+    background-color: skyblue;
+}
+.heading1{
+    text-align: center;
+}
+
